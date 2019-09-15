@@ -8,5 +8,6 @@ end
 end
 
 def countdown_with_sleep?(num)
-  while
+  while num > 0
+  puts ""
 end
